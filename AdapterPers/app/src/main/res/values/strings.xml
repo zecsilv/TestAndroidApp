@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Insere | lista Texto</string>
+    <string name="tvInputText">Insira texto...</string>
+    <string name="btnList">List</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnHelp">HELP</string>
+
+</resources>
